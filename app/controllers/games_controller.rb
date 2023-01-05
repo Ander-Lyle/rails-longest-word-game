@@ -43,6 +43,3 @@ class GamesController < ApplicationController
     result
   end
 end
-white_check_mark
-eyes
-raised_hands
